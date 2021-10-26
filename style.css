@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    color:red;
+    font-style:italic;  
+    font-weight: bold;  
+}
+h2{
+    color: springgreen;
+    font-style: italic;
+    font-weight: bold;
+}
+h3{
+    color:gold;
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    color: gold;
+    font-style: normal;
+    font-weight: 900;
+}
